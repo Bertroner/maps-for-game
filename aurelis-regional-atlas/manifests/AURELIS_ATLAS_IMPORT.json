@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "documentType": "aurelis-atlas-import",
   "campaignId": "aurelis",
-  "atlasVersion": "1.0.1",
+  "atlasVersion": "1.0.2",
   "repository": "https://github.com/Bertroner/maps-for-game",
   "assetBaseUrl": "https://raw.githubusercontent.com/Bertroner/maps-for-game/master/",
   "maps": [
-    {"mapId":"map_reg_001","locationId":"loc_pub_001","mapType":"region","sceneName":"Aurelis Atlas map_reg_001","imagePath":"aurelis-regional-atlas/assets/regions/map_reg_001.png","sha256":"767e1c21402bfbeef2f66a58da43c76c2467d866562850e04b487f28ea1e3885","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]},
-    {"mapId":"map_city_001","locationId":"loc_pub_002","mapType":"major_city","sceneName":"Aurelis Atlas map_city_001","imagePath":"aurelis-regional-atlas/assets/cities/map_city_001.png","sha256":"df6f4bed060770517ae98793e980bdb277149e65620893dd40b3137845dfccda","width":1672,"height":941,"qualityStatus":"passed"},
-    {"mapId":"map_loc_001","locationId":"loc_pub_003","mapType":"settlement","sceneName":"Aurelis Atlas map_loc_001","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_001.png","sha256":"9e1a2748d3c51ceded5e4a3737e5905333a8baaaec7328055252274eef927752","width":1672,"height":941,"qualityStatus":"passed"},
-    {"mapId":"map_loc_002","locationId":"loc_pub_004","mapType":"settlement","sceneName":"Aurelis Atlas map_loc_002","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_002.png","sha256":"1a8456c00022aa3974ae670a6bebd517a3cf77624d3b7897197190642e27eb1a","width":1672,"height":941,"qualityStatus":"passed"},
-    {"mapId":"map_loc_003","locationId":"loc_pub_005","mapType":"settlement","sceneName":"Aurelis Atlas map_loc_003","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_003.png","sha256":"8dbe43eb270c092990d75f154875d478d6e4c5ac33c7b9c2fadf61deed98650f","width":1672,"height":941,"qualityStatus":"passed"},
-    {"mapId":"map_loc_004","locationId":"loc_pub_006","mapType":"settlement","sceneName":"Aurelis Atlas map_loc_004","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_004.png","sha256":"f5f23e88d726f8b1de73ac0f25a7b023e1695801f237c149fcd739c5452ea719","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]}
+    {"mapId":"map_reg_001","locationId":"loc_pub_001","mapType":"region","sceneName":"Зонненмарк","imagePath":"aurelis-regional-atlas/assets/regions/map_reg_001.png","sha256":"767e1c21402bfbeef2f66a58da43c76c2467d866562850e04b487f28ea1e3885","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]},
+    {"mapId":"map_city_001","locationId":"loc_pub_002","mapType":"major_city","sceneName":"Зигмарсхафен","imagePath":"aurelis-regional-atlas/assets/cities/map_city_001.png","sha256":"df6f4bed060770517ae98793e980bdb277149e65620893dd40b3137845dfccda","width":1672,"height":941,"qualityStatus":"passed"},
+    {"mapId":"map_loc_001","locationId":"loc_pub_003","mapType":"settlement","sceneName":"Вайценфельд","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_001.png","sha256":"9e1a2748d3c51ceded5e4a3737e5905333a8baaaec7328055252274eef927752","width":1672,"height":941,"qualityStatus":"passed"},
+    {"mapId":"map_loc_002","locationId":"loc_pub_004","mapType":"settlement","sceneName":"Оливенхайн","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_002.png","sha256":"1a8456c00022aa3974ae670a6bebd517a3cf77624d3b7897197190642e27eb1a","width":1672,"height":941,"qualityStatus":"passed"},
+    {"mapId":"map_loc_003","locationId":"loc_pub_005","mapType":"settlement","sceneName":"Штайнталь","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_003.png","sha256":"8dbe43eb270c092990d75f154875d478d6e4c5ac33c7b9c2fadf61deed98650f","width":1672,"height":941,"qualityStatus":"passed"},
+    {"mapId":"map_loc_004","locationId":"loc_pub_006","mapType":"settlement","sceneName":"Фалькенбухт","imagePath":"aurelis-regional-atlas/assets/settlements/map_loc_004.png","sha256":"f5f23e88d726f8b1de73ac0f25a7b023e1695801f237c149fcd739c5452ea719","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]}
   ],
   "mattNavigationSpec": [
     {"navigationId":"nav_001","sourceMapId":"map_reg_001","destinationMapId":"map_city_001","trigger":"double_click","behavior":"activate_destination_scene","hotspot":{"x":0.48,"y":0.73,"width":0.08,"height":0.10}},
