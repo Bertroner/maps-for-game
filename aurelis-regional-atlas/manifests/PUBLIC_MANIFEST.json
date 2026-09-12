@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "documentType": "aurelis-atlas-public-manifest",
   "campaignId": "aurelis",
-  "atlasVersion": "1.0.0",
+  "atlasVersion": "1.0.1",
   "generatedAt": "2026-09-13",
   "maps": [
     {"mapId":"map_reg_001","mapType":"region","imagePath":"assets/regions/map_reg_001.png","sha256":"767e1c21402bfbeef2f66a58da43c76c2467d866562850e04b487f28ea1e3885","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]},

@@ -2,8 +2,9 @@
   "schemaVersion": 1,
   "documentType": "aurelis-atlas-import",
   "campaignId": "aurelis",
-  "atlasVersion": "1.0.0",
+  "atlasVersion": "1.0.1",
   "repository": "https://github.com/Bertroner/maps-for-game",
+  "assetBaseUrl": "https://raw.githubusercontent.com/Bertroner/maps-for-game/master/",
   "maps": [
     {"mapId":"map_reg_001","locationId":"loc_pub_001","mapType":"region","sceneName":"Aurelis Atlas map_reg_001","imagePath":"aurelis-regional-atlas/assets/regions/map_reg_001.png","sha256":"767e1c21402bfbeef2f66a58da43c76c2467d866562850e04b487f28ea1e3885","width":1672,"height":941,"qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]},
     {"mapId":"map_city_001","locationId":"loc_pub_002","mapType":"major_city","sceneName":"Aurelis Atlas map_city_001","imagePath":"aurelis-regional-atlas/assets/cities/map_city_001.png","sha256":"df6f4bed060770517ae98793e980bdb277149e65620893dd40b3137845dfccda","width":1672,"height":941,"qualityStatus":"passed"},
