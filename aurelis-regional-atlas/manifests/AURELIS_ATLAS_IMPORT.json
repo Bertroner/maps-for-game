@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "documentType": "aurelis-atlas-import",
   "campaignId": "aurelis",
-  "atlasVersion": "1.0.2",
+  "atlasVersion": "1.1.0",
   "repository": "https://github.com/Bertroner/maps-for-game",
   "assetBaseUrl": "https://raw.githubusercontent.com/Bertroner/maps-for-game/master/",
   "maps": [
