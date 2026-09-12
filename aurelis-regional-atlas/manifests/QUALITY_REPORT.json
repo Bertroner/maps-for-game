@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "documentType": "aurelis-atlas-quality-report",
+  "atlasVersion": "1.0.0",
+  "maps": [
+    {"mapId":"map_reg_001","qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]},
+    {"mapId":"map_city_001","qualityStatus":"passed","artifactCategories":[]},
+    {"mapId":"map_loc_001","qualityStatus":"passed","artifactCategories":[]},
+    {"mapId":"map_loc_002","qualityStatus":"passed","artifactCategories":[]},
+    {"mapId":"map_loc_003","qualityStatus":"passed","artifactCategories":[]},
+    {"mapId":"map_loc_004","qualityStatus":"artifact_reported","artifactCategories":["forbidden_feature"]}
+  ],
+  "successfulGenerations": 6,
+  "automaticRetries": 0,
+  "regenerations": 0
+}
